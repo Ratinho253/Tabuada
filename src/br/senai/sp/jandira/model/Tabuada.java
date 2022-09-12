@@ -9,7 +9,6 @@ public class Tabuada {
 	public int maxMultiplicador;
 	
 	
-	
 	public ArrayList<String> getTabuada() {
 		
 		ArrayList<String> tabuada = new ArrayList<String>();
